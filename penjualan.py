@@ -69,5 +69,3 @@ elif pilihanTrs == 'transaksi':
     print(f'Kembalian = {hasil}')
 else:
     print(f'Transaksi{pilihanTrs} tidak ada..')
-
-
