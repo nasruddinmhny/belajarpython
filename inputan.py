@@ -10,8 +10,8 @@ while True:
         break
 
 print('== Nama Teman Saya ==')
-for nama in range (len(namateman)):
-    print(f'index[{nama}] Nama = {namateman[nama]}')
+for index in range (len(namateman)):
+    print(f'index[{index}] Nama = {namateman[index]}')
 
 
 
