@@ -59,4 +59,3 @@ for i in range(len(nisList)):
     print(f'Nilai UAS : {nilaiuasList[i]}')
     print(f'Nilai Akhir : {nilaiakhirList[i]}')
     print(f'Keterangan : {keterangan}')
-
